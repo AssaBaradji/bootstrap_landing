@@ -1,5 +1,5 @@
 <template>
-    <div class="contenair">
+    <div class="container">
         <div class="row">
             <div class="col">
                 <div class="bg-secondary text-white my-5 py-4 card">
